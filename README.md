@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a student of BelSTU and just a good guy 😇
+## I'm a .NET developer at Syberry and just a good guy 😇
 - 💪 I like to write code
 - 💾 I like learning something new
 
