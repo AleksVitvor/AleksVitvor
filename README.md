@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-## I'm a .NET developer at Syberry and just a good guy 😇
+## I'm a .NET developer and just a good guy 😇
 - 💪 I like to write code
 - 💾 I like learning something new
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 <br />
@@ -20,4 +19,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/aleksey-vitvor-8b094a1a5/
-[vk]: https://vk.com/idaleks251
